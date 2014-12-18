@@ -1,0 +1,1 @@
+This contains my resume. In order to generate the pdf, please ensure that latex, dvips and ps2pdf are already installed on your system. Then execute ./run.sh to get outputs in .dvips, .ps and .pdf. The hierarchy is flat as it is a very simple repo aimed to be used only by me.
